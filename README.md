@@ -3,18 +3,11 @@ __This is a Mod for the „DabloonBank“ shortcut.__
 
 __I currently don't have any Apple Computer so I am doing this on my iPhone and later I will get a MacBook but not yet so don't expect any fast support on Features and Bugs just let me know.__
 
-
-[![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
-
-
-***V The Original Shortcut Can be downloaded here V***
-![https://raw.githubusercontent.com/NoOneIsHereFr/DabloonBankMod/main/IMG_4236.png](https://github.com/cnan00/DabloonBank/)
+***V The Original Shortcut Can be downloaded here V*** [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
 
 ***V Download the Mod.
 Please get the one on top except you know what
-you are doing V***
-
-![https://raw.githubusercontent.com/NoOneIsHereFr/DabloonBankMod/main/IMG_4236.png](https://github.com/NoOneIsHereFr/DabloonBankMod/releases/)
+you are doing V*** [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/releases/)
 
 [-> Please go to the Pull Requests to give me more Ideas <-](https://github.com/NoOneIsHereFr/DabloonBankMod/pull/1)
 
