@@ -35,7 +35,7 @@ you are doing* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/bl
 - a Backup/Restore Feature
 
   Good If you Actually destroyed your
-  device with a apple onthe backside
+  device with a apple on the backside
 
 - no max adding amount
 
