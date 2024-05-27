@@ -12,8 +12,7 @@ Step 1: Download the shortcut by choosing one of the two links (I recommend usin
 
 Step 2: Run it and Type a Name
 
-Step 3: You have it on your ShareSheet so you can sadly watch TikTok and get Dabloons. Have Fun Traveller__
-__
+Step 3: You have it on your ShareSheet so you can sadly watch TikTok and get Dabloons. Have Fun Traveller
 
 ### Download
 
@@ -29,10 +28,25 @@ you are doing* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/bl
 
 - a back button in every Menu
 
+  I know that it is Anoying so I added them
+  to prevent any person to destroy
+  his device with a apple o the Backside
+  
 - a Backup/Restore Feature
+
+  Good If you Actually destroyed your
+  device with a apple onthe backside
 
 - no max adding amount
 
+  Saw someone giving you 101 Dabloons
+  and you couldn't add them so I did this
+
 - Custom ATM Card (you can add your own soon)
 
+  Nothing to explain here ig?
+
 - Storing Dabloons as QR Code
+
+  you lost your device with a apple on the backside?
+  with this Feature you wont lose your Dabloons
