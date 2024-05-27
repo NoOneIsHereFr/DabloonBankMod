@@ -13,11 +13,11 @@ Step 3: You have it on your ShareSheet so you can sadly watch TikTok and get Dab
 
 ### Download
 
-***The Official Shortcut Can be downloaded here*** [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
+*The Official Shortcut Can be downloaded here* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
 
-***Download the Mod.
+*Download the Mod.
 Please get the one on top except you know what
-you are doing*** [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/releases/)
+you are doing* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/releases/)
 
 
 
