@@ -5,26 +5,7 @@ __I currently don't have any Apple Computer so I am doing this on my iPhone and 
 
 ***Please go to the Pull Requests to give me more Ideas*** [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download%201.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/pull/1)
 
-## Tutorial
-*To use this you'll need any device with a screen and a apple on the backside*
-
-Step 1: Download the shortcut by choosing one of the two links (I recommend using the second one)
-
-Step 2: Run it and Type a Name
-
-Step 3: You have it on your ShareSheet so you can sadly watch TikTok and get Dabloons. Have Fun Traveller
-
-### Download
-
-*The Official Shortcut Can be downloaded here* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
-
-*Download the Mod.
-Please get the one on top except you know what
-you are doing* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/releases/)
-
-
-
-#### Features:
+## Features:
 
 - a back button in every Menu
 
@@ -50,3 +31,21 @@ you are doing* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/bl
 
   you lost your device with a apple on the backside?
   with this Feature you wont lose your Dabloons
+
+
+### Tutorial
+*To use this you'll need any device with a screen and a apple on the backside*
+
+Step 1: Download the shortcut by choosing one of the two links (I recommend using the second one)
+
+Step 2: Run it and Type a Name
+
+Step 3: You have it on your ShareSheet so you can sadly watch TikTok and get Dabloons. Have Fun Traveller
+
+#### Download
+
+*The Official Shortcut Can be downloaded here* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
+
+*Download the Mod.
+Please get the one on top except you know what
+you are doing* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/releases/)
