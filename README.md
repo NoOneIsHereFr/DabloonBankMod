@@ -1,7 +1,7 @@
 # Dabloon Bank Mod
 __This is a Mod for the „DabloonBank“ shortcut.__
 
-author:NoOneHereFr
+author: NoOneHereFr
 
 __I currently don't have any Apple Computer so I am doing this on my iPhone and later I will get a MacBook but not yet so don't expect any fast support on Features and Bugs just let me know.__
 
