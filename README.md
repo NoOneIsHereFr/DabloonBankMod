@@ -12,7 +12,8 @@ Step 1: Download the shortcut by choosing one of the two links (I recommend usin
 
 Step 2: Run it and Type a Name
 
-Step 3: You have it on your ShareSheet so you can sadly watch TikTok and get Dabloons. Have Fun Traveller
+Step 3: You have it on your ShareSheet so you can sadly watch TikTok and get Dabloons. Have Fun Traveller__
+__
 
 ### Download
 
