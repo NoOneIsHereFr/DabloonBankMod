@@ -7,8 +7,11 @@ __I currently don't have any Apple Computer so I am doing this on my iPhone and 
 
 ## Tutorial
 *To use this you'll need any device with a screen and a apple on the backside*
+
 Step 1: Download the shortcut by choosing one of the two links (I recommend using the second one)
+
 Step 2: Run it and Type a Name
+
 Step 3: You have it on your ShareSheet so you can sadly watch TikTok and get Dabloons. Have Fun Traveller
 
 ### Download
