@@ -3,13 +3,14 @@ __This is a Mod for the „DabloonBank“ shortcut.__
 
 __I currently don't have any Apple Computer so I am doing this on my iPhone and later I will get a MacBook but not yet so don't expect any fast support on Features and Bugs just let me know.__
 
-***V The Original Shortcut Can be downloaded here V*** [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
+***The Original Shortcut Can be downloaded here*** [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
 
-***V Download the Mod.
+***Download the Mod.
 Please get the one on top except you know what
-you are doing V*** [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/releases/)
+you are doing*** [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/releases/)
 
 [-> Please go to the Pull Requests to give me more Ideas <-](https://github.com/NoOneIsHereFr/DabloonBankMod/pull/1)
+[![-> Please go to the Pull Requests to give me more Ideas <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download%201.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/pull/1)
 
 **This Mod Has the Features:**
 - a back button in every Menu
