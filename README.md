@@ -21,9 +21,8 @@ you are doing* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/bl
 
 
 
-#### Features
+#### Features:
 
-**This Mod Has the Features:**
 - a back button in every Menu
 
 - a Backup/Restore Feature
