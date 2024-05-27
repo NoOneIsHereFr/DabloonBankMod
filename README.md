@@ -1,5 +1,5 @@
 # Dabloon Bank Mod
-This is a Mod for the „DabloonBank“ shortcut.
+__This is a Mod for the „DabloonBank“ shortcut.__
 
 ***The Original Shortcut Can be downloaded***
 [-> here <-](https://github.com/cnan00/DabloonBank/)
