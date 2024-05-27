@@ -20,4 +20,4 @@ Please go to the Pull Requests to give me more Ideas [![-> here <-](https://gith
 
 - Custom ATM Card (you can add your own soon)
 
-- Storing Money (Working on it)
+- Storing Money as QR Code
