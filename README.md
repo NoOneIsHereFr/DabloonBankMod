@@ -4,7 +4,7 @@ __This is a Mod for the „DabloonBank“ shortcut.__
 __I currently don't have any Apple Computer so I am doing this on my iPhone and later I will get a MacBook but not yet so don't expect any fast support on Features and Bugs just let me know.__
 
 
-[![-> here <-](https://raw.githubusercontent.com/NoOneIsHereFr/DabloonBankMod/main/IMG_4236.png)](https://github.com/cnan00/DabloonBank/)
+[![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
 
 
 ***V The Original Shortcut Can be downloaded here V***
