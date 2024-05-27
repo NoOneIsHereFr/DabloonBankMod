@@ -16,3 +16,5 @@ This Mod Has the Features:
 - a Backup/Restore Feature
 
 - no max adding amount
+
+- Custom ATM Card (you can add your own soon)
