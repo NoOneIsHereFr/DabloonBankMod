@@ -23,7 +23,7 @@ __I currently don't have any Apple Computer so I am doing this on my iPhone and 
   Saw someone giving you 101 Dabloons
   and you couldn't add them so I did this
 
-- Custom ATM Card (you can add your own soon)
+- Custom ATM Card (you can add your own)
 
   Nothing to explain here ig?
 
