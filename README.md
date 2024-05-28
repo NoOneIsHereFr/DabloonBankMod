@@ -42,7 +42,7 @@ Step 2: Run it and Type a Name
 
 Step 3: You have it on your ShareSheet so you can sadly watch TikTok and get Dabloons. Have Fun Traveller
 
-#### Download
+### Download
 
 *The Official Shortcut Can be downloaded here* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
 
