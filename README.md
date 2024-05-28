@@ -33,7 +33,7 @@ __I currently don't have any Apple Computer so I am doing this on my iPhone and 
   with this Feature you wont lose your Dabloons
 
 
-### Tutorial
+## Tutorial
 *To use this you'll need any device with a screen and a apple on the backside*
 
 Step 1: Download the shortcut by choosing one of the two links (I recommend using the second one)
