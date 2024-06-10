@@ -28,6 +28,7 @@ __I currently don't have any Apple Computer so I am doing this on my iPhone and 
   Nothing to explain here ig?
 
 - Some Bug fixes
+  
   Also nothig to expain  
 
 - Storing Dabloons as QR Code
