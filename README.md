@@ -47,5 +47,5 @@ Step 3: You have it on your ShareSheet so you can sadly watch TikTok and get Dab
 *The Official Shortcut Can be downloaded here* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/cnan00/DabloonBank/)
 
 *Download the Mod.
-Please get the one on top except you know what
+after you clicked please get the version on top except you know what
 you are doing* [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/releases/)
