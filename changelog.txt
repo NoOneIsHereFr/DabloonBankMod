@@ -1,4 +1,0 @@
-Starting from the Mod version 0.7-Beta (lol)
-
-0.7:
-  Optimized aome stuff and removed some stuff that was double or smth
