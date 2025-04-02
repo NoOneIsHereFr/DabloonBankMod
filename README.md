@@ -1,17 +1,15 @@
 # Dabloon Bank Mod
 __This is a Mod for the „DabloonBank“ shortcut.__
 
-__I currently don't have any Apple Computer so I am doing this on my iPhone and later I will get a MacBook but not yet so don't expect any fast support on Features and Bugs just let me know.__
-
 ***Please go to the Pull Requests to give me more Ideas*** [![-> here <-](https://github.com/NoOneIsHereFr/DabloonBankMod/blob/main/download%201.png?raw=true)](https://github.com/NoOneIsHereFr/DabloonBankMod/pull/1)
 
 ## Features:
 
 - a back button in every Menu
 
-  I know that it is Anoying so I added them
+  I know that it is annoying so I added them
   to prevent any person to destroy
-  his device with a apple o the Backside
+  their device with a apple on the backside
   
 - a Backup/Restore Feature
 
@@ -21,7 +19,7 @@ __I currently don't have any Apple Computer so I am doing this on my iPhone and 
 - no max adding amount
 
   Saw someone giving you 101 Dabloons
-  and you couldn't add them so I did this
+  and you couldn't add them? Now you can
 
 - Custom ATM Card (you can add your own)
 
@@ -29,7 +27,7 @@ __I currently don't have any Apple Computer so I am doing this on my iPhone and 
 
 - Some Bug fixes
   
-  Also nothig to expain  
+  Also nothing to expain  
 
 - Storing Dabloons as QR Code
 
